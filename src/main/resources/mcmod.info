@@ -1,0 +1,14 @@
+[{
+  "modid": "archronos",
+  "name": "AR Chronos Addon",
+  "description": "An addon to AR that recalibrates the orbital period.",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "authorList": ["Somdudewillson"],
+  "credits": "Thanks to the original author of Advanced Rocketry!",
+  "logoFile": "",
+  "screenshots": [],
+  "requiredMods": ["advancedrocketry"],
+  "dependencies": ["advancedrocketry"]
+}]
