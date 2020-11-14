@@ -2,7 +2,7 @@
 ## Summary
 Chronos is a Advanced Rocketry addon that adds adds more realistic orbital period calculation, and the ability to manually override orbital periods.
 
-CurseForge Page (Recommended download location): Waiting on approval.
+CurseForge Page (Recommended download location): https://www.curseforge.com/minecraft/mc-mods/ar-chronos
 
 GitHub Page of Advanced Rocketry: https://github.com/zmaster587/AdvancedRocketry
 
