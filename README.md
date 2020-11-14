@@ -1,6 +1,6 @@
 # Chronos : Advanced Rocketry Addon
 ## Summary
-Chronos is a Advanced Rocketry addon that adds configurable per-dimension passive radiation from the environment.
+Chronos is a Advanced Rocketry addon that adds adds more realistic orbital period calculation, and the ability to manually override orbital periods.
 
 CurseForge Page (Recommended download location): Waiting on approval.
 
