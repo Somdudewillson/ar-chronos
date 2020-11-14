@@ -7,7 +7,7 @@
   "url": "",
   "authorList": ["Somdudewillson"],
   "credits": "Thanks to the original author of Advanced Rocketry!",
-  "logoFile": "",
+  "logoFile": "ARChonos_SplashImg.png",
   "screenshots": [],
   "requiredMods": ["advancedrocketry"],
   "dependencies": ["advancedrocketry"]
